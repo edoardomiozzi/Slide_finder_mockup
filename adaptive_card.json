@@ -1,0 +1,63 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.5",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Large",
+      "weight": "Bolder",
+      "text": "Slide simili trovate"
+    },
+    {
+      "type": "TextBlock",
+      "isSubtle": true,
+      "spacing": "None",
+      "text": "Demo mock \u2013 risultati fittizi"
+    },
+    {
+      "type": "Container",
+      "$data": "@{body('Parse_JSON')}",
+      "items": [
+        {
+          "type": "ColumnSet",
+          "columns": [
+            {
+              "type": "Column",
+              "width": "auto",
+              "items": [
+                {
+                  "type": "Image",
+                  "url": "${thumb_url}",
+                  "size": "Medium"
+                }
+              ]
+            },
+            {
+              "type": "Column",
+              "width": "stretch",
+              "items": [
+                {
+                  "type": "TextBlock",
+                  "text": "${title}",
+                  "weight": "Bolder",
+                  "wrap": true
+                },
+                {
+                  "type": "TextBlock",
+                  "text": "Slide #${slide_id} \u00b7 Score ${score}",
+                  "isSubtle": true,
+                  "spacing": "None"
+                }
+              ],
+              "selectAction": {
+                "type": "Action.OpenUrl",
+                "url": "${open_url}"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

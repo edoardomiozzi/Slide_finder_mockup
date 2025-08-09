@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Quarterly Sales Overview",
+    "deck_id": "deck-sales-q1",
+    "slide_id": 1,
+    "score": 0.92,
+    "thumb_url": "https://placehold.co/200x120/png?text=Sales+Q1+S1",
+    "open_url": "https://contoso.sharepoint.com/sites/Sales/Shared%20Documents/Q1_Sales.pptx?web=1"
+  },
+  {
+    "title": "EBITDA Bridge \u2013 Q1",
+    "deck_id": "deck-sales-q1",
+    "slide_id": 5,
+    "score": 0.89,
+    "thumb_url": "https://placehold.co/200x120/png?text=EBITDA+Bridge+Q1",
+    "open_url": "https://contoso.sharepoint.com/sites/Sales/Shared%20Documents/Q1_Sales.pptx?web=1"
+  },
+  {
+    "title": "North Region Performance",
+    "deck_id": "deck-sales-q1",
+    "slide_id": 7,
+    "score": 0.84,
+    "thumb_url": "https://placehold.co/200x120/png?text=North+Region",
+    "open_url": "https://contoso.sharepoint.com/sites/Sales/Shared%20Documents/Q1_Sales.pptx?web=1"
+  },
+  {
+    "title": "Pricing Strategy 2025",
+    "deck_id": "deck-pricing-2025",
+    "slide_id": 2,
+    "score": 0.88,
+    "thumb_url": "https://placehold.co/200x120/png?text=Pricing+2025",
+    "open_url": "https://contoso.sharepoint.com/sites/Strategy/Shared%20Documents/Pricing_2025.pptx?web=1"
+  },
+  {
+    "title": "EBITDA Sensitivity Analysis",
+    "deck_id": "deck-pricing-2025",
+    "slide_id": 8,
+    "score": 0.86,
+    "thumb_url": "https://placehold.co/200x120/png?text=EBITDA+Sensitivity",
+    "open_url": "https://contoso.sharepoint.com/sites/Strategy/Shared%20Documents/Pricing_2025.pptx?web=1"
+  },
+  {
+    "title": "Churn Drivers \u2013 Enterprise",
+    "deck_id": "deck-cx-enterprise",
+    "slide_id": 3,
+    "score": 0.83,
+    "thumb_url": "https://placehold.co/200x120/png?text=Churn+Drivers",
+    "open_url": "https://contoso.sharepoint.com/sites/Customer/Shared%20Documents/CX_Enterprise.pptx?web=1"
+  },
+  {
+    "title": "NPS Trend vs Benchmarks",
+    "deck_id": "deck-cx-enterprise",
+    "slide_id": 4,
+    "score": 0.81,
+    "thumb_url": "https://placehold.co/200x120/png?text=NPS+Trend",
+    "open_url": "https://contoso.sharepoint.com/sites/Customer/Shared%20Documents/CX_Enterprise.pptx?web=1"
+  },
+  {
+    "title": "EBITDA Bridge \u2013 Q2",
+    "deck_id": "deck-sales-q2",
+    "slide_id": 6,
+    "score": 0.9,
+    "thumb_url": "https://placehold.co/200x120/png?text=EBITDA+Bridge+Q2",
+    "open_url": "https://contoso.sharepoint.com/sites/Sales/Shared%20Documents/Q2_Sales.pptx?web=1"
+  },
+  {
+    "title": "Revenue by Segment",
+    "deck_id": "deck-sales-q2",
+    "slide_id": 2,
+    "score": 0.82,
+    "thumb_url": "https://placehold.co/200x120/png?text=Revenue+by+Segment",
+    "open_url": "https://contoso.sharepoint.com/sites/Sales/Shared%20Documents/Q2_Sales.pptx?web=1"
+  },
+  {
+    "title": "Cost Reduction Plan",
+    "deck_id": "deck-ops-cost",
+    "slide_id": 9,
+    "score": 0.8,
+    "thumb_url": "https://placehold.co/200x120/png?text=Cost+Reduction",
+    "open_url": "https://contoso.sharepoint.com/sites/Ops/Shared%20Documents/Cost_Reduction.pptx?web=1"
+  },
+  {
+    "title": "Supply Chain Risks",
+    "deck_id": "deck-ops-cost",
+    "slide_id": 10,
+    "score": 0.79,
+    "thumb_url": "https://placehold.co/200x120/png?text=Supply+Risks",
+    "open_url": "https://contoso.sharepoint.com/sites/Ops/Shared%20Documents/Cost_Reduction.pptx?web=1"
+  },
+  {
+    "title": "Customer Acquisition Funnel",
+    "deck_id": "deck-marketing-fy25",
+    "slide_id": 5,
+    "score": 0.78,
+    "thumb_url": "https://placehold.co/200x120/png?text=Acquisition+Funnel",
+    "open_url": "https://contoso.sharepoint.com/sites/Marketing/Shared%20Documents/Marketing_FY25.pptx?web=1"
+  },
+  {
+    "title": "Brand Awareness Lift",
+    "deck_id": "deck-marketing-fy25",
+    "slide_id": 7,
+    "score": 0.77,
+    "thumb_url": "https://placehold.co/200x120/png?text=Brand+Lift",
+    "open_url": "https://contoso.sharepoint.com/sites/Marketing/Shared%20Documents/Marketing_FY25.pptx?web=1"
+  },
+  {
+    "title": "Regional EBITDA Summary",
+    "deck_id": "deck-sales-q2",
+    "slide_id": 11,
+    "score": 0.76,
+    "thumb_url": "https://placehold.co/200x120/png?text=Regional+EBITDA",
+    "open_url": "https://contoso.sharepoint.com/sites/Sales/Shared%20Documents/Q2_Sales.pptx?web=1"
+  },
+  {
+    "title": "EBITDA Bridge \u2013 FY",
+    "deck_id": "deck-finance-fy",
+    "slide_id": 12,
+    "score": 0.93,
+    "thumb_url": "https://placehold.co/200x120/png?text=EBITDA+Bridge+FY",
+    "open_url": "https://contoso.sharepoint.com/sites/Finance/Shared%20Documents/Finance_FY.pptx?web=1"
+  }
+]
