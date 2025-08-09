@@ -21,9 +21,15 @@ class SearchRequest(BaseModel):
     top_k: int = 5
     filters: Optional[Dict[str, Any]] = None
 
-@app.get("/health")
-def health():
-    return {"status": "ok"}
+@app.get("/")
+def home():
+    return {
+        "message": "Slide Finder Mock API",
+        "docs": "/docs",
+        "health": "/health",
+        "search": "/search"
+    }
+
 
 @app.post("/search")
 def search(req: SearchRequest):
