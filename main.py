@@ -3,7 +3,14 @@ from pydantic import BaseModel
 from typing import List, Optional, Dict, Any
 import json, os
 
-app = FastAPI(title="Slide Finder Mock API", version="0.1.0")
+app = FastAPI(
+    title="Slide Finder Mock API",
+    version="0.1.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+    openapi_url="/openapi.json",
+)
+
 
 DATA_PATH = os.getenv("MOCK_DATA", os.path.join(os.path.dirname(__file__), "mock_data.json"))
 with open(DATA_PATH, "r", encoding="utf-8") as f:
